@@ -1,9 +1,9 @@
 ### Hi there!
-#### Currently working on
+#### Currently working on:
 - [Uploadgram (and app)](https://github.com/Uploadgram)
 - [A new amphp-based ClamAV wrapper](https://github.com/pato05/amphp-clamav)
 
-#### You can contact me on
+#### You can contact me on:
 - [Telegram](https://t.me/pato05)
 - [Email](mailto:admin@pato05mc.tk)
 
